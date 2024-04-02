@@ -1,4 +1,5 @@
 # React + TypeScript + Vite + redux + slice + thunk
+https://lesson45-hw43-react-reduxtoolkit-slice-thunk.vercel.app/
 
 - Слайс counterSlice створений за допомогою функції createSlice від Redux Toolkit.
 - Існуючі редюсер та екшени - сгенеровані слайсом.
