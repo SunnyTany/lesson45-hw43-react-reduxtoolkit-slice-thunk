@@ -7,4 +7,5 @@ https://lesson45-hw43-react-reduxtoolkit-slice-thunk.vercel.app/
 
 ## проект лічильника за допомогою redux-saga: 
 https://github.com/SunnyTany/lesson45-hw43-redux-slice-saga-counter 
+
 https://lesson45-hw43-redux-slice-saga-counter.vercel.app/
